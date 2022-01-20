@@ -47,14 +47,14 @@
     position:relative;
     width: 60px;
     height: 60px;
-    background: url('images/logomenu.png');
+    background: url('Images/logomenu.png');
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center;
     cursor: pointer;
   }
 .toggle.active{
-  background: url('images/close.png');
+  background: url('Images/close.png');
   background-repeat: no-repeat;
   background-size: 25px;
   background-position: center;
